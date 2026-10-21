@@ -1,0 +1,8 @@
+{
+  "name": "Bug Hunter: Find & Fix",
+  "description": "A hacking-themed adventure where players find and fix code bugs across 5 progressive levels, earning XP, coins, streaks, and badges while mastering programming logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
